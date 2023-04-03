@@ -1,0 +1,13 @@
+{
+  "name": "wesocket-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ZhangYu <2783789733@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./app.js"
+  },
+  "devDependencies": {
+    "ws": "^8.13.0"
+  }
+}
